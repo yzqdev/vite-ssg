@@ -1,0 +1,1 @@
+import{u as e,a,c as s,b as o}from"./app.fc25b196.js";const c={class:"markdown-body"},n=o("h2",null,"this is decorateText",-1),r=[n],u=[],p={__name:"a",setup(_,{expose:t}){return t({frontmatter:{meta:[]}}),e({meta:[]}),(h,i)=>(a(),s("div",c,r))}};export{p as default,u as meta};

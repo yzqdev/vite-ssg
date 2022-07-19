@@ -18,35 +18,38 @@
   "src/entry.ts": [],
   "index.html": [],
   "src/pages/CssDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/CssDemo.6537cc3e.js",
-    "/assets/CssDemo.161e3fa4.css"
+    "/vite-ssg/assets/CssDemo.ef425ee0.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/CssDemo.vue?vue&type=style&index=0&scoped=4509cc5c&lang.scss": [
-    "/assets/CssDemo.6537cc3e.js",
-    "/assets/CssDemo.161e3fa4.css"
+    "/vite-ssg/assets/CssDemo.ef425ee0.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/CssDemo.vue": [
-    "/assets/CssDemo.6537cc3e.js",
-    "/assets/CssDemo.161e3fa4.css"
-  ],
-  "src/pages/a.md?vue&type=script&setup=true&lang.ts": [
-    "/assets/a.cc58b5b4.js"
+    "/vite-ssg/assets/CssDemo.ef425ee0.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/a.md": [
-    "/assets/a.cc58b5b4.js"
+    "/vite-ssg/assets/a.86abc1aa.js"
+  ],
+  "node_modules/.pnpm/md-editor-v3@2.2.1/node_modules/md-editor-v3/lib/md-editor-v3.es.js": [
+    "/vite-ssg/assets/md.cae3d23e.js",
+    "/vite-ssg/assets/md.bcbb281d.css"
+  ],
+  "node_modules/.pnpm/md-editor-v3@2.2.1/node_modules/md-editor-v3/lib/style.css": [
+    "/vite-ssg/assets/md.cae3d23e.js",
+    "/vite-ssg/assets/md.bcbb281d.css"
+  ],
+  "src/pages/md.vue": [
+    "/vite-ssg/assets/md.cae3d23e.js",
+    "/vite-ssg/assets/md.bcbb281d.css"
   ],
   "src/assets/test.jpg": [
-    "/assets/passage.af5cc593.js",
-    "/assets/test.787f7936.jpg"
+    "/vite-ssg/assets/passage.f80754c4.js",
+    "/vite-ssg/assets/test.787f7936.jpg"
   ],
   "src/pages/passage.vue": [
-    "/assets/passage.af5cc593.js",
-    "/assets/test.787f7936.jpg"
-  ],
-  "src/pages/nested/deep/b.md?vue&type=script&setup=true&lang.ts": [
-    "/assets/b.b9c96d9f.js"
-  ],
-  "src/pages/nested/deep/b.md": [
-    "/assets/b.b9c96d9f.js"
+    "/vite-ssg/assets/passage.f80754c4.js",
+    "/vite-ssg/assets/test.787f7936.jpg"
   ]
 }
