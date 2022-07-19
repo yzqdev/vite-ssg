@@ -1,0 +1,52 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "node_modules/.pnpm/@vue+shared@3.2.37/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+reactivity@3.2.37/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.37/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.37/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/vue-router@4.1.2_vue@3.2.37/node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/.pnpm/@vueuse+head@0.7.6_vue@3.2.37/node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_bc535nzjtcqlryzrekyvursaoq/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_bc535nzjtcqlryzrekyvursaoq/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.20.2_bc535nzjtcqlryzrekyvursaoq/node_modules/vite-ssg/dist/index.mjs": [],
+  "\u0000vite/preload-helper": [],
+  "\u0000plugin-vue:export-helper": [],
+  "src/pages/index.vue": [],
+  "../../../../../@vite-plugin-pages/generated-pages?id=virtual:generated-pages": [],
+  "src/App.vue?vue&type=style&index=0&scoped=88148a7f&lang.css": [],
+  "src/App.vue": [],
+  "src/entry.ts": [],
+  "index.html": [],
+  "src/pages/CssDemo.vue?vue&type=script&setup=true&lang.ts": [
+    "/vite-ssg/assets/CssDemo.ce8f2433.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+  ],
+  "src/pages/CssDemo.vue?vue&type=style&index=0&scoped=4509cc5c&lang.scss": [
+    "/vite-ssg/assets/CssDemo.ce8f2433.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+  ],
+  "src/pages/CssDemo.vue": [
+    "/vite-ssg/assets/CssDemo.ce8f2433.js",
+    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+  ],
+  "src/pages/a.md?vue&type=script&setup=true&lang.ts": [
+    "/vite-ssg/assets/a.ef704412.js"
+  ],
+  "src/pages/a.md": [
+    "/vite-ssg/assets/a.ef704412.js"
+  ],
+  "src/assets/test.jpg": [
+    "/vite-ssg/assets/b.aa301a08.js",
+    "/vite-ssg/assets/test.787f7936.jpg"
+  ],
+  "src/pages/b.vue": [
+    "/vite-ssg/assets/b.aa301a08.js",
+    "/vite-ssg/assets/test.787f7936.jpg"
+  ],
+  "src/pages/nested/deep/b.md?vue&type=script&setup=true&lang.ts": [
+    "/vite-ssg/assets/b.46c94f6e.js"
+  ],
+  "src/pages/nested/deep/b.md": [
+    "/vite-ssg/assets/b.46c94f6e.js"
+  ]
+}
