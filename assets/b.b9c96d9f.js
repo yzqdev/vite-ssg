@@ -1,0 +1,1 @@
+import{d as t,u as a,a as o,c as s,b as n}from"./app.63d779b6.js";const c={class:"markdown-body"},r=n("h1",null,"Page B",-1),d=[r],l={meta:[]},u="",f=t({__name:"b",setup(_,{expose:e}){return a({meta:[]}),e({frontmatter:{meta:[]},excerpt:void 0}),(p,i)=>(o(),s("div",c,d))}});export{f as default,u as excerpt,l as frontmatter};

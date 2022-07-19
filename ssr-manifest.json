@@ -18,35 +18,35 @@
   "src/entry.ts": [],
   "index.html": [],
   "src/pages/CssDemo.vue?vue&type=script&setup=true&lang.ts": [
-    "/vite-ssg/assets/CssDemo.ce8f2433.js",
-    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+    "/assets/CssDemo.6537cc3e.js",
+    "/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/CssDemo.vue?vue&type=style&index=0&scoped=4509cc5c&lang.scss": [
-    "/vite-ssg/assets/CssDemo.ce8f2433.js",
-    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+    "/assets/CssDemo.6537cc3e.js",
+    "/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/CssDemo.vue": [
-    "/vite-ssg/assets/CssDemo.ce8f2433.js",
-    "/vite-ssg/assets/CssDemo.161e3fa4.css"
+    "/assets/CssDemo.6537cc3e.js",
+    "/assets/CssDemo.161e3fa4.css"
   ],
   "src/pages/a.md?vue&type=script&setup=true&lang.ts": [
-    "/vite-ssg/assets/a.ef704412.js"
+    "/assets/a.cc58b5b4.js"
   ],
   "src/pages/a.md": [
-    "/vite-ssg/assets/a.ef704412.js"
+    "/assets/a.cc58b5b4.js"
   ],
   "src/assets/test.jpg": [
-    "/vite-ssg/assets/b.aa301a08.js",
-    "/vite-ssg/assets/test.787f7936.jpg"
+    "/assets/passage.af5cc593.js",
+    "/assets/test.787f7936.jpg"
   ],
-  "src/pages/b.vue": [
-    "/vite-ssg/assets/b.aa301a08.js",
-    "/vite-ssg/assets/test.787f7936.jpg"
+  "src/pages/passage.vue": [
+    "/assets/passage.af5cc593.js",
+    "/assets/test.787f7936.jpg"
   ],
   "src/pages/nested/deep/b.md?vue&type=script&setup=true&lang.ts": [
-    "/vite-ssg/assets/b.46c94f6e.js"
+    "/assets/b.b9c96d9f.js"
   ],
   "src/pages/nested/deep/b.md": [
-    "/vite-ssg/assets/b.46c94f6e.js"
+    "/assets/b.b9c96d9f.js"
   ]
 }
