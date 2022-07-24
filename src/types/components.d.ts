@@ -7,8 +7,8 @@ export {}
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
-    Counter: typeof import('./src/components/Counter.vue')['default']
-    MousePos: typeof import('./src/components/MousePos.vue')['default']
+    Counter: typeof import('./../components/Counter.vue')['default']
+    MousePos: typeof import('./../components/MousePos.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
   }
